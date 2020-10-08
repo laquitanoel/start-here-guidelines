@@ -1652,6 +1652,8 @@
 
 - [@l-white](https://github.com/l-white)
 
+- [@laquitanoel](https://github.com/laquitanoel)
+
 - [@lakshitlj17](https://github.com/lakshitlj17)
 
 - [@lambochan](https://github.com/lambochan)
